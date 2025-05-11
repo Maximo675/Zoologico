@@ -1,0 +1,6 @@
+
+{
+    "java.compile.nullAnalysis.mode": "automatic"
+    "java.home": "C:\\Program Files\\AdoptOpenJDK\\jdk-21.0.x.x-hotspot"
+
+}
